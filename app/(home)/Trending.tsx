@@ -23,7 +23,7 @@ const TrendingCard = ({ className, post }: TrendingCardProps) => {
                     (max-width: 768px) 75vw,
                     (max-width: 1060px) 50vw,
                     33vw"
-                    style={{ objectFit: "cover "}} 
+                    style={{ objectFit: "cover"}} 
                 />
 
             </div>
